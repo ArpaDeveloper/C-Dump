@@ -1,6 +1,6 @@
 # My code dump with C-language
 Different codes that I have done using C-language. 
-## [Algorithms](./algorithms)
+## [Algorithms](Algorithms/)
 ### Bubble sort
 Implementation of bubble sort algorithm. Bubble sort algorithm works by repeatedly steps through the input list element by element, 
 comparing the current element with the one after it, swapping their values if needed. 
@@ -30,7 +30,7 @@ Complexity: __n^2__
 Filename: __shellsort.c__
 
 
-## Data Structures
+## [Data Structures](Data%20Structures/)
 ### Singly Linked List
 A singly linked list is a fundamental data structure, it consists of nodes where each node contains a data field and a reference to the next node in the linked list. 
 The next of the last node is null, indicating the end of the list. Linked Lists support efficient insertion and deletion operations.
@@ -43,7 +43,7 @@ The data is inserted into the queue through one end and deleted from it using th
 
 Filename: __queue.c__
 
-## Others
+## [Others](Others/)
 ### Mini calculator
 Calculator implemented using ternary operators. I tried to make the calculator as small and simple as possible.
 
