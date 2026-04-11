@@ -43,6 +43,11 @@ The data is inserted into the queue through one end and deleted from it using th
 
 Filename: __queue.c__
 
+### Final Project for C-course
+My final project for a C-course. I implemented binary search tree & doubly linked list with both having multiple different functions. Both support file reading, file saving, deleting elements, adding elements, printing element by starting char, etc.
+
+Filename: __tnode.c__ __bst.c__ __node.c__ __dll.c__ __main.c__ + __makefile__ & __headers__
+
 ## [Others](Others/)
 ### Mini calculator
 Calculator implemented using ternary operators. I tried to make the calculator as small and simple as possible.
